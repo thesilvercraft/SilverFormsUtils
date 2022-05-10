@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverFormsUtils.Example", "SilverFormsUtils.Example\SilverFormsUtils.Example.csproj", "{EF59D2F1-5C2F-4A0A-9B05-7FF6A349AFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverFormsUtils", "SilverFormsUtils\SilverFormsUtils.csproj", "{24918A12-6C4A-4CCE-836D-43E34B121B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF59D2F1-5C2F-4A0A-9B05-7FF6A349AFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF59D2F1-5C2F-4A0A-9B05-7FF6A349AFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF59D2F1-5C2F-4A0A-9B05-7FF6A349AFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF59D2F1-5C2F-4A0A-9B05-7FF6A349AFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24918A12-6C4A-4CCE-836D-43E34B121B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24918A12-6C4A-4CCE-836D-43E34B121B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24918A12-6C4A-4CCE-836D-43E34B121B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24918A12-6C4A-4CCE-836D-43E34B121B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334D0A24-8D44-4F76-AF2B-EF0D30BA9708}
+	EndGlobalSection
+EndGlobal
